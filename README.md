@@ -1,14 +1,10 @@
-# CatPhotoApp-HTML
+# CatPhotoApp-HTML-freeCodeCamp
 Building barebones pure Hypertext Markup page.
 
-## <Elements>
-
-
+## <'Elements'>
   
-## Atributes=
-
-
+## 'Atributes'=
   
-## =Values
+## ='Values'
 
 
